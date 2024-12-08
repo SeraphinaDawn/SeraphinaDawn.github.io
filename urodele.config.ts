@@ -1,16 +1,16 @@
 export const config = {
   github: {
-    login: "glink25", // github login name, not user name
-    repo: "test-for-anything", //"urodele",
+    login: "SeraphinaDawn", // github login name, not user name
+    repo: "SeraphinaDawn.github.io", //"urodele",
     logInUrl: "",
     logInAuthUrl: "",
   },
   head: {
-    title: "Urodele",
+    title: "AhNan's Blog",
   },
   footer: {
-    copyright: "© Glink",
-    copyrightUrl: "https://github.com/glink25",
+    copyright: "© AhNan Blog",
+    copyrightUrl: "https://github.com/SeraphinaDawn",
   },
   pagination: {
     size: 10,
